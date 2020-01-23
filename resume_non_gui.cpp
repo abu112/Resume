@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstdlib>
 #include <string>
-#include <vector>
 #include <ctime>
 
 class MySelf {
