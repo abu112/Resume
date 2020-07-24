@@ -32,11 +32,8 @@ public:
 private:
 
     std::string name = "Abu Ghalib";
-    std::string f_name = "Mohd Yusuf";
-    std::string m_name = "BIBI Kaushri";
     std::string gender = "Male";
     std::string dateofbirth = "14-02-2002";
-    std::string maritalstatus = "Unmarried";
     int age;
 
     std::string education_qualification = "\t| ----------------------------------Education Qualification-----------------------------------|\n\n"
